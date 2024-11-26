@@ -9,5 +9,7 @@
 </ul>
 
 <h2>Telas do jogo</h2>
-<img src=".src/images/telaInicial" alt="Tela Inicial do jogo de memória, as cartas viradas para baixo">
-<img src=".src/images/telaFinal" alt="Tela FInal do jogo de memória, as cartas viradas para cima, mostrando os emojis">
+<div style="display: flex;">
+  <img src="src/images/telaInicial.PNG" width="200px" alt="Tela Inicial do jogo de memória, as cartas viradas para baixo">
+  <img src="src/images/telaFinal.PNG" width="200px" alt="Tela FInal do jogo de memória, as cartas viradas para cima, mostrando os emojis">
+</div>
